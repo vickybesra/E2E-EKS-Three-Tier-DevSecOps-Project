@@ -46,10 +46,3 @@ The `k8s/manifests/` directory holds Kubernetes manifests for deploying your app
 
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
 
-## Getting Started
-To get started with this project, refer to our [comprehensive guide](https://ujwal5ghare.medium.com/end-to-end-three-tier-devsecops-project-bf719155ef33) that walks you through IAM user setup, infrastructure provisioning, CI/CD pipeline configuration, EKS cluster creation, and more.
-
-## 🌟 Comprehensive Guide
-For a detailed guide, please refer to my [blog post on Medium](https://ujwal5ghare.medium.com/end-to-end-three-tier-devsecops-project-bf719155ef33).
-
-Happy Coding! 🚀
