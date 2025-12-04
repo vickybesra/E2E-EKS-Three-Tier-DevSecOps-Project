@@ -1,11 +1,6 @@
 # 🚀 Three-Tier MERN Stack Web Application Deployment on AWS EKS using AWS EKS, Jenkins, ArgoCD, Prometheus and Grafana
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/vicky-besra-6b1369121)
 
-![Three-Tier Banner](assets/images/three-tier.gif)
-
-# 🚀 Configuring Production-Ready EKS Clusters with Terraform
-![EKS- GitHub Actions- Terraform](assets/images/tf-eks.gif)
-
 Welcome to the Three-Tier MERN Stack Web Application Deployment project! 🚀
 
 This repository hosts the implementation of a Three-Tier Web App using ReactJS, NodeJS, and MongoDB, deployed on AWS EKS. The project covers a wide range of tools and practices for a robust and scalable DevOps setup.
@@ -45,4 +40,5 @@ The `k8s/manifests/` directory holds Kubernetes manifests for deploying your app
 - GitOps with ArgoCD
 
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
+
 
